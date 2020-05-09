@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1Ed4JDW802gQr$
+export_file_url = 'https://drive.google.com/uc?id=1Ed4JDW802gQrwQxfkM8ScKnpiAIoUflN'
 export_file_name = 'export.pkl'
 
 classes = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress',  'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
